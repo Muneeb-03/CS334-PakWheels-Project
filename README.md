@@ -9,3 +9,6 @@
 
 ## Final Blog Link
 https://medium.com/@ahmedmuneeb013/extracting-insights-from-pakwheels-com-using-machine-learning-569ca2294720
+
+## Final Presentation Link
+https://drive.google.com/file/d/1LFgNJmQO1KYZNL2jL7q1oV-wd-tu9u8r/view?usp=sharing
